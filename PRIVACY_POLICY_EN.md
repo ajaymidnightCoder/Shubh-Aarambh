@@ -11,7 +11,7 @@ Because we don’t collect data:
 - We never sell or share information with third parties  
 - We avoid handling sensitive data entirely  
 - All processing happens locally on your device  
-- Nothing is uploaded to external servers (we don’t have servers)
+- Nothing is uploaded to external servers
 
 Our goal is simple:  
 **Shubh Aarambh should work beautifully without knowing anything about you.**
